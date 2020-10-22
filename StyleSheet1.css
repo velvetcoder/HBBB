@@ -1,6 +1,6 @@
 @media only screen and (max-width:620px) {
     /* For mobile phones: */
-    body, #section, .center {
+    body {
         width: 100%;
     }
 }
